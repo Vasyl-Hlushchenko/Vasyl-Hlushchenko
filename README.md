@@ -29,7 +29,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="mongoDB" alt="mongoDB" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original-wordmark.svg"  title="SQLAlchemy" alt="SQLAlchemy" width="40" height="40"/>&nbsp;
   <img src="http://www.alembic.io/images/alembic_logo.jpg" title="Alembic" alt="Alembic" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/Ovsyanka83/pydantic-duality/main/docs/_media/logo_with_text.svg" title="Pydantic Duality" alt="Pydantic Duality" width="40" height="40"/>&nbsp;
+  <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*WNd3LXOi5xlDbitxsIARyw.png" title="Pydantic" alt="Pydantic" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="NumPy" alt="NumPy" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" title="Scikit learn"  alt="Scikit learn" width="40" height="40"/>&nbsp;
