@@ -8,7 +8,7 @@
 <body>
   <p><b>Hey there</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </p>
-  <p>I'm a junior Python developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> passionate about creating innovative solutions with Python.</p>
+  <p>I'm a Python developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> passionate about creating innovative solutions with Python.</p>
   <ul>
     <li>:telescope: Here, you'll find a collection of my projects, contributions, and explorations in the Python programming world.</li>
     <li>:zap: I believe in the power of open-source software and the versatility of Python. Let's connect and create something remarkable together!</li>
