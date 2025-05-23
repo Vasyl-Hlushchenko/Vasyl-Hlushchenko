@@ -14,7 +14,7 @@
     <li>:zap: I believe in the power of open-source software and the versatility of Python. Let's connect and create something remarkable together!</li>
     <li>:seedling: Feel free to explore my projects, review my code, and provide feedback. I'm always excited to collaborate and contribute to meaningful projects.</li>
     <li>:mailbox: If you have any questions, suggestions, or collaboration opportunities, don't hesitate to reach out: 
-    <a href="https://www.linkedin.com/in/vasiliy-hlushchenko"><b>LinkedIn<b></a></li>
+    <a href="https://www.linkedin.com/in/vasyl-hlushchenko"><b>LinkedIn<b></a></li>
   </ul>
   <p>:hammer_and_wrench: <b>My stack and tools:</b></p>
   <div>
